@@ -1,0 +1,13 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>org.venus</groupId>
+    <artifactId>camel-parent</artifactId>
+    <version>1.0.0</version>
+  </parent>
+  <groupId>org.venus.camel</groupId>
+  <artifactId>camel-jms-spring-02</artifactId>
+  <version>1.0.0</version>
+  <name>camel-jms-spring-02</name>
+  <description>2nd example on spring and jms with camel</description>
+</project>
